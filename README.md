@@ -35,7 +35,7 @@ As queries usadas no projeto estão em `athena_queries/`.
 Exemplos:
 
 - `average_temperature.sql` → calcula média de temperatura por século  
-- `top5_years.sql` → top 10 anos mais quentes  
+- `top10_years.sql` → top 10 anos mais quentes  
 
 > Estas queries mostram que os dados processados no S3 podem ser consultados diretamente via Athena.
 
